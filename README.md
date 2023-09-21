@@ -3,7 +3,7 @@
 ```bash
 $ npx ts-node-dev src/main.ts
 ```
-# OR
+### OR
 
 ```bash
 $ npm run dev
